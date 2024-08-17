@@ -1,0 +1,10 @@
+{
+    "name": "Roblox Ranking",
+    "description": [
+        "Rank the user in the group with RankGun",
+    ],
+    "authors": ["Solihappycoder"],
+    "version": "1",
+    "bot_version": "4.0.0",
+    "cogs_required": []
+}
